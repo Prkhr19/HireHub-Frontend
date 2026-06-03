@@ -1,5 +1,7 @@
 export const ROUTES={
     HOME:'/',
-    LOGIN:'/Login',
-    SIGNUP:'/Signup'
+    LOGIN:'/login',
+    SIGNUP:'/signup',
+    CANDIDATE_DASHBOARD:'/candidate/dashboard',
+    RECRUITER_DASHBOARD:'/recruiter/dashboard',
 };
